@@ -1,3 +1,3 @@
 function testFunction () {
-    console.log("hello wordl!");
+    console.log("hello world!");
 }
